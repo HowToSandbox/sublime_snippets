@@ -1,0 +1,10 @@
+<snippet>
+	
+	<content><![CDATA[
+it "$2" do
+	$3
+end	
+
+]]></content>
+	<tabTrigger>it</tabTrigger>
+</snippet>

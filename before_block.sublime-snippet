@@ -1,0 +1,10 @@
+<snippet>
+	
+	<content><![CDATA[
+before(${1::each}) do
+	$2
+end
+
+]]></content>
+	<tabTrigger>before</tabTrigger>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	
+	<content><![CDATA[
+describe "$1" do
+	it "$2" do
+		$3
+	end	
+end
+
+]]></content>
+	<tabTrigger>desc</tabTrigger>
+</snippet>
